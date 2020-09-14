@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-#github.com/AngelSecurityTeam/Cam-Hackers
+#mau Recode?Cantumin author Beg0
 import requests,re,os
 import time
 import sys
